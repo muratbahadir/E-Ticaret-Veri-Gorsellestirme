@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956229536375",
+    "firebase_url": "https://eticaretverigorsel.firebaseio.com",
+    "project_id": "eticaretverigorsel",
+    "storage_bucket": "eticaretverigorsel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956229536375:android:57e6976a0a5bf4a5785472",
+        "android_client_info": {
+          "package_name": "com.example.e_ticaretverigrselletirme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956229536375-pa84ok8rjihciafh44k51gqc2itd1ubt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_ticaretverigrselletirme",
+            "certificate_hash": "ed01cb8930041e26648bafcc3bf8241126a8da88"
+          }
+        },
+        {
+          "client_id": "956229536375-8tkn030aadko36op1kkf4uq3m9cl4k25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ7qHRIqdEK2CcIAH0HVz3F9QOY55hTWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956229536375-8tkn030aadko36op1kkf4uq3m9cl4k25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
